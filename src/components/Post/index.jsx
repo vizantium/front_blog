@@ -81,10 +81,6 @@ export const Post = ({
               <EyeIcon />
               <span>{viewsCount}</span>
             </li>
-            <li>
-              <CommentIcon />
-              <span>{commentsCount}</span>
-            </li>
           </ul>
         </div>
       </div>
